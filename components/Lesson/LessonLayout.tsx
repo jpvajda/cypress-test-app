@@ -1,4 +1,4 @@
-import LessonToc from "../../components/Lesson/LessonToc"
+import LessonToc from "./LessonToc"
 import LessonBreadcrumbs from "./LessonBreadcrumbs"
 import { MDXRemote } from "next-mdx-remote"
 import dynamic from "next/dynamic"

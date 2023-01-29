@@ -21,7 +21,7 @@
     "module": "esnext",
     "moduleResolution": "node",
     "resolveJsonModule": true,
-    "isolatedModules": true,
+    "isolatedModules": false, //changed to false so test files don't require export {}
     "jsx": "preserve",
     "incremental": true
   },
