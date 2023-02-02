@@ -25,7 +25,6 @@ describe("Newsletter Subscribe Form", () => {
       .should("exist")
       .contains("already exists. Please use a different email address.")
   })
-
 })
 
 
